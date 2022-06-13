@@ -9,7 +9,7 @@
 
 [![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/Jensen330/) 
 
-
-🔪 Contact me: jensen@townofsilenthill.com
+📨 Contact me (Gigolo Studios): jensen@gigolostudios.com
+📩 Contact me (Body Mechanic): jensen@bodymechanic.au
 
 ![P](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) ![DS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![PSN](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
