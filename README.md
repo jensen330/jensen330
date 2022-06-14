@@ -1,12 +1,12 @@
 ## No introduction, no conclusion, just substance
 
-![SH2](https://camo.githubusercontent.com/faccbaf36ba7f2b7d299ff77d643ca2e63d085b36cea741a01a5c866d8b3c188/68747470733a2f2f692e696d6775722e636f6d2f6b45553061636e2e706e67)
+[![SH2](https://camo.githubusercontent.com/faccbaf36ba7f2b7d299ff77d643ca2e63d085b36cea741a01a5c866d8b3c188/68747470733a2f2f692e696d6775722e636f6d2f6b45553061636e2e706e67)](https://github.com/Jensen330/) 
 
 <h3>Stats</h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensen330&show_icons=true&theme=aura_dark)](https://github.com/Jensen330/) 
 
-[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/Jensen330/) [![Discord](https://badgen.net/discord/online-members/rQM3mGxC)](https://discord.gg/rQM3mGxC/)
+[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/Jensen330/) [![Discord](https://badgen.net/discord/online-members/rQM3mGxC)](https://discord.gg/FVrAYR5Kqh)
 
 📨 Contact (Gigolo Studios): jensen@gigolostudios.au
 
