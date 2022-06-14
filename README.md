@@ -6,7 +6,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensen330&show_icons=true&theme=aura_dark)](https://github.com/Jensen330/) 
 
-[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/Jensen330/) [![Discord](https://badgen.net/discord/online-members/rQM3mGxC)](https://discord.gg/FVrAYR5Kqh)
+[![GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Jensen330.readme.visitor-badge)](https://github.com/Jensen330/)
 
 📨 Contact (Gigolo Studios): jensen@gigolostudios.au
 
